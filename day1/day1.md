@@ -1,4 +1,3 @@
-Headings:Day1 
 
 # day 1
 
